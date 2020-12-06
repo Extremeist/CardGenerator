@@ -1,0 +1,13 @@
+Develop an application that enables the user to generate either a Christmas, Wedding, or Birthday Greeting card.  The application should create objects of either type Christmas, Wedding or Birthday with parameters for recipient and sender. 
+
+Each card should comprise each of the following methods: 
+
+initialise() – to  initialise arrays of predefined salutations, verses and closings dependent on the type of card 
+
+salutation() – to choose a random salutation from the array and print alongside the recipient name  
+
+verse() – to choose and print a random verse from the array  
+
+closing() – to choose a random closing from the array and print alongside the sender name 
+
+Apply the Template Design Patter in your solution.   
